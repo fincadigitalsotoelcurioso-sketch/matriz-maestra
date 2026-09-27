@@ -1,20 +1,17 @@
-{
-  "system": "Delumio // Núcleo Crudo",
-  "author": {
-    "profile": "Empírico / 5to de primaria",
-    "location": "Mariquita, Tolima, Colombia",
-    "status": "Recursos mínimos / Cero presupuesto",
-    "background": "Reservista del Ejército Nacional / Sobreviviente de trauma craneoencefálico",
-    "motivation": "Acción de gracias a Dios y legado para mis hijos"
-  },
-  "philosophy": [
-    "Cero humo, cero corporaciones.",
-    "Aislamiento y disciplina de trinchera frente al ego.",
-    "Automatización local con recursos limitados."
-  ],
-  "manifesto": {
-    "identity": "Desarrollador empírico del común. Mi mamá me apoya con el tinto diario. No soy ingeniero ni influencer.",
-    "technique": "Cursos básicos del SENA. Automatización local y trabajo a pulso con las uñas.",
-    "purpose": "Código abierto, real y sin filtros para demostrar que la resiliencia supera cualquier falta de recursos."
-  }
-}
+# Delumio // Núcleo Crudo
+
+author:
+  profile: Desarrollador empírico / 5to de primaria
+  location: Mariquita, Tolima, Colombia
+  status: Recursos mínimos / Cero presupuesto
+  background: Reservista del Ejército Nacional / Sobreviviente de trauma craneoencefálico
+  stance: "No se pide limosna ni se venden cursos. Se muestra la obra hecha a pulso y con las uñas."
+
+project_focus:
+  - "Desarrollo de un libro autobiográfico y técnico sobre resiliencia y código desde la base."
+  - "Automatización local y herramientas de trinchera con cero presupuesto."
+  - "Construcción de un legado real para los hijos y testimonio de supervivencia."
+
+manifesto:
+  identity: "Desarrollador empírico del común, apoyado por el tinto diario de mi mamá. No soy gurú corporativo ni influencer."
+  purpose: "Demostrar que con disciplina de trinchera y recursos mínimos se puede construir software y escribir una historia de superación. Abierto al apoyo legítimo de quienes reconocen el valor del trabajo real."
